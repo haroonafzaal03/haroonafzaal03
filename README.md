@@ -43,4 +43,14 @@ I build practical software across AI workflows, backend systems, automation, and
 
 ## Tech Stack
 
-`Python` `TypeScript` `PHP` `Blade` `Java` `C#` `CSS`
+### Languages
+`Python` `TypeScript` `PHP` `Java` `C#` `Blade` `CSS`
+
+### Frameworks and Libraries
+`FastAPI` `LangGraph` `Laravel` `SQLAdmin`
+
+### Databases and Queues
+`PostgreSQL` `Redis` `Celery`
+
+### Focus Areas
+`AI Workflows` `Backend APIs` `Automation` `Browser Extensions` `Web Apps`
