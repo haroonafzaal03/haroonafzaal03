@@ -1,12 +1,52 @@
-# Hi, I'm Haroon Afzaal
+<h1 align="center">Hi, I'm Haroon Afzaal 👋</h1>
 
-I build practical software across AI workflows, backend systems, automation, and web applications.
+<p align="center">
+  <strong>AI Workflows • Backend APIs • Automation • Web Apps</strong>
+</p>
 
+<p align="center">
+  <a href="https://github.com/haroonafzaal03">
+    <img src="https://komarev.com/ghpvc/?username=haroonafzaal03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/haroonafzaal03?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-16-1f6feb" alt="public repos" />
+  </a>
+  <a href="https://github.com/haroonafzaal03">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-success" alt="open to collaboration" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- Building practical products with strong backend foundations
+- Focused on AI orchestration, API design, and workflow automation
 - GitHub: [@haroonafzaal03](https://github.com/haroonafzaal03)
 
 ---
 
-## Highlighted Repositories
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frameworks and Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-AI%20Workflow-black?style=for-the-badge)
+![SQLAdmin](https://img.shields.io/badge/SQLAdmin-Admin%20Panel-0b7285?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+---
+
+## Featured Projects
 
 ### AI and Automation
 - [Python-ai-workflow-multi-tanent](https://github.com/haroonafzaal03/Python-ai-workflow-multi-tanent) - Multi-tenant AI backend with FastAPI, PostgreSQL, Celery, Redis, and SQLAdmin.
@@ -20,37 +60,35 @@ I build practical software across AI workflows, backend systems, automation, and
 
 ---
 
-## All Public Repositories
+## GitHub Stats
 
-- [Python-ai-workflow-multi-tanent](https://github.com/haroonafzaal03/Python-ai-workflow-multi-tanent)
-- [money-printer-v2-forked](https://github.com/haroonafzaal03/money-printer-v2-forked)
-- [langgraph-implemenation](https://github.com/haroonafzaal03/langgraph-implemenation)
-- [extension-session-cookie](https://github.com/haroonafzaal03/extension-session-cookie)
-- [Mage2Gen](https://github.com/haroonafzaal03/Mage2Gen) *(fork)*
-- [fleet](https://github.com/haroonafzaal03/fleet)
-- [doorsec](https://github.com/haroonafzaal03/doorsec)
-- [RNCryptor-php](https://github.com/haroonafzaal03/RNCryptor-php) *(fork)*
-- [express](https://github.com/haroonafzaal03/express)
-- [airline](https://github.com/haroonafzaal03/airline)
-- [ecpr](https://github.com/haroonafzaal03/ecpr)
-- [PetsMart](https://github.com/haroonafzaal03/PetsMart)
-- [testappveyor](https://github.com/haroonafzaal03/testappveyor)
-- [fypSmartCloudMobile](https://github.com/haroonafzaal03/fypSmartCloudMobile)
-- [oopAssignment](https://github.com/haroonafzaal03/oopAssignment)
-- [oopAssigment01](https://github.com/haroonafzaal03/oopAssigment01)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=haroonafzaal03&show_icons=true&theme=tokyonight&hide_border=true" alt="Haroon's GitHub stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroonafzaal03&theme=tokyonight&hide_border=true" alt="Haroon's streak stats" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroonafzaal03&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ---
 
-## Tech Stack
+## All Public Repositories
 
-### Languages
-`Python` `TypeScript` `PHP` `Java` `C#` `Blade` `CSS`
-
-### Frameworks and Libraries
-`FastAPI` `LangGraph` `Laravel` `SQLAdmin`
-
-### Databases and Queues
-`PostgreSQL` `Redis` `Celery`
-
-### Focus Areas
-`AI Workflows` `Backend APIs` `Automation` `Browser Extensions` `Web Apps`
+[Python-ai-workflow-multi-tanent](https://github.com/haroonafzaal03/Python-ai-workflow-multi-tanent) •
+[money-printer-v2-forked](https://github.com/haroonafzaal03/money-printer-v2-forked) •
+[langgraph-implemenation](https://github.com/haroonafzaal03/langgraph-implemenation) •
+[extension-session-cookie](https://github.com/haroonafzaal03/extension-session-cookie) •
+[Mage2Gen](https://github.com/haroonafzaal03/Mage2Gen) *(fork)* •
+[fleet](https://github.com/haroonafzaal03/fleet) •
+[doorsec](https://github.com/haroonafzaal03/doorsec) •
+[RNCryptor-php](https://github.com/haroonafzaal03/RNCryptor-php) *(fork)* •
+[express](https://github.com/haroonafzaal03/express) •
+[airline](https://github.com/haroonafzaal03/airline) •
+[ecpr](https://github.com/haroonafzaal03/ecpr) •
+[PetsMart](https://github.com/haroonafzaal03/PetsMart) •
+[testappveyor](https://github.com/haroonafzaal03/testappveyor) •
+[fypSmartCloudMobile](https://github.com/haroonafzaal03/fypSmartCloudMobile) •
+[oopAssignment](https://github.com/haroonafzaal03/oopAssignment) •
+[oopAssigment01](https://github.com/haroonafzaal03/oopAssigment01)
